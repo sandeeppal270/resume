@@ -1,0 +1,4 @@
+application:
+- name:phptest345
+  memory:128M
+  buildpack:php_buildpack
